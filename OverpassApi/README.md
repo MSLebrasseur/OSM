@@ -2,7 +2,7 @@ Yeah Overpass API !
 
 All the buildings in a buffer of 1000m around the river Nyamwamba
 
-´´´
+```
 
 way["name"="River Nyamwamba"];
 
@@ -14,4 +14,4 @@ way
 
 out body;
 
-´´´
+```
