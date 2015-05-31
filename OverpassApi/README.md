@@ -10,3 +10,21 @@ way
 (._;>;);
 out body;
 ```
+
+Polygone of Allepo
+
+````
+area[int_name="Syria"];
+(relation[name="Aleppo"](area););
+(._;>;);
+out;
+````
+
+Json of the hospital in Syria
+
+```
+[out:json];
+area[int_name="Syria"];
+(node[amenity="hospital"](area););
+out;
+```
