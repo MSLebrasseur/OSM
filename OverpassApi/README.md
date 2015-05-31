@@ -20,7 +20,7 @@ area[int_name="Syria"];
 out;
 ````
 
-Json of the hospital in Syria
+Json of the hospitals in Syria
 
 ```
 [out:json];
