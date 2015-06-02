@@ -28,3 +28,15 @@ area[int_name="Syria"];
 (node[amenity="hospital"](area););
 out;
 ```
+
+All the roads mapped during the mapathon
+
+```
+[out:json];
+area[name="Kigoma"];
+(
+  way[highway](changed:"2015-06-01T18:00:00Z","2015-06-01T22:00:00Z")(area);
+);
+(._;>;);
+out meta;
+```
