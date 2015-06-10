@@ -2,6 +2,8 @@
 
 * On the OpenStreetMap website, click “sign up” in the top right corner of the page.
 
+####SELECT THE BAMBARI PROJECT IN THE TASK MANAGER
+
 ####The Task:
 
 * Draw the missing buildings and roads using the satellite image as background.
