@@ -2,11 +2,16 @@
 
 * On the OpenStreetMap website, click “sign up” in the top right corner of the page.
 
-####SELECT THE BAMBARI PROJECT IN THE TASK MANAGER
+####THE TASK MANAGER
+* Search for Bambari 
+* Select a square 
+* Start Mapping
 
 ####The Task:
-
+* Add a custom tile : 
+* Move the backgound a bit
 * Draw the missing buildings and roads using the satellite image as background.
+* When Saving add the tag #blablab 
 
 
 ####Some videos: 
@@ -15,5 +20,5 @@
 
 [Nepal](https://vimeo.com/126611252 "Nepal")
 
-#### The Tiles:
+
 
