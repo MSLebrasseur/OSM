@@ -1,4 +1,4 @@
-####CRÉER VOTRE COMPTE OPENSTREETMAP
+####CREATE AN OPENSTREETMAP ACCOUNT
 
 * On the OpenStreetMap website, click “sign up” in the top right corner of the page.
 
