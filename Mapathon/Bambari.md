@@ -1,13 +1,16 @@
 ####CREATE AN OPENSTREETMAP ACCOUNT
 
-* On the OpenStreetMap website, click “sign up” in the top right corner of the page.
+* On the OpenStreetMap.org website, click “sign up” in the top right corner of the page.
+* After filling the form, go back on the map and click Edit !
 
-####THE TASK MANAGER
+#####THE TASK MANAGER
+
 * Search for Bambari 
-* Select a square 
+* Select a square
 * Start Mapping
 
 ####The Task:
+
 * Add a custom tile : 
 * Move the backgound a bit
 * Draw the missing buildings and roads using the satellite image as background.
