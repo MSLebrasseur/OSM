@@ -14,7 +14,8 @@
 * Add a custom tile : 
 * Move the backgound a bit
 * Draw the missing buildings and roads using the satellite image as background.
-* When Saving add the tag #blablab 
+* When Saving add the tag #blablab
+* Don't forget to unlock the square!
 
 
 ####Some videos: 
