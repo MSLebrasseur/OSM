@@ -1,4 +1,6 @@
-####CREATE AN OPENSTREETMAP ACCOUNT
+#### BAMBARI MAPATHON
+
+#####CREATE AN OPENSTREETMAP ACCOUNT
 
 * On the OpenStreetMap.org website, click “sign up” in the top right corner of the page.
 * After filling the form, go back on the map and click Edit !
@@ -15,7 +17,7 @@ http://tasks.hotosm.org/
 * Select __Edit with ID Editor__
 
 
-####The Task:
+######The Task:
 
 * Add a custom tile : 
 * Move the backgound a bit
@@ -24,7 +26,7 @@ http://tasks.hotosm.org/
 * Don't forget to unlock the square!
 
 
-####Some videos: 
+#####SOME VIDEOS: 
 
 [MapGive](http://mapgive.state.gov/learn-to-map/ "MapGive")
 
