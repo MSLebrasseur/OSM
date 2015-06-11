@@ -32,9 +32,13 @@ http://tasks.hotosm.org/
 ![](http://gis.asseng.info/bambari/TM_Alignment.png)
 
 * Draw the missing buildings and roads using the satellite image as background.
+
 * Select the tag Building in the left panel 
+
 * Make it orthogonal with "s"
+
 * When Saving add the tag #CAR, Bambari #hotosm-task-141, #sources ICRC 14 April 2014
+
 * Don't forget to unlock the square!
 
 
@@ -44,5 +48,8 @@ http://tasks.hotosm.org/
 
 [Nepal](https://vimeo.com/126611252 "Nepal")
 
+#####Other Link
 * http://54.77.175.142:8888/v2/bambari/{z}/{x}/{y}.png
+
+* http://wiki.openstreetmap.org/wiki/Map_Features
 
