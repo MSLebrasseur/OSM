@@ -11,7 +11,9 @@ http://openstreetmap.org/
 
 http://tasks.hotosm.org/
 
-* Search for Bambari 
+* Search for Bambari                                                                     
+![](http://gis.asseng.info/bambari/TM_Search2.png)
+
 * Select the Task:
   _#141 Central African Republic, Ouaka, Bambari_
 * Select a square in the map which has not been validated (not in green)
