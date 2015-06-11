@@ -30,7 +30,7 @@ http://tasks.hotosm.org/
 ![](http://gis.asseng.info/bambari/TM_Alignment.png)
 
 * Draw the missing buildings and roads using the satellite image as background.
-* When Saving add the tag #blablab
+* When Saving add the tag #CAR, Bambari #hotosm-task-141, #sources ICRC 14 April 2014
 * Don't forget to unlock the square!
 
 
