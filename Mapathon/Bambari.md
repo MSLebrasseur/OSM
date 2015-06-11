@@ -5,6 +5,8 @@
 
 #####THE TASK MANAGER
 
+http://tasks.hotosm.org/
+
 * Search for Bambari 
 * Select a square
 * Start Mapping
