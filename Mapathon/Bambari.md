@@ -9,6 +9,8 @@ http://openstreetmap.org/
 
 #####THE TASK MANAGER
 
+(in mozilla or Chrome !)
+
 http://tasks.hotosm.org/
 
 * Search for Bambari                                                                     
