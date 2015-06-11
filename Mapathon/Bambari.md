@@ -26,6 +26,8 @@ http://tasks.hotosm.org/
 * Add a custom tile service (basemap satellite imagery)
 ![](http://gis.asseng.info/bambari/TM_Custom.png)
 
+The image link is : https://b.tiles.mapbox.com/v3/icrc.me2ebofl/{z}/{x}/{y}.png
+
 * Move the backgound a bit, in order to match the elements with the image                                            
 ![](http://gis.asseng.info/bambari/TM_Alignment.png)
 
