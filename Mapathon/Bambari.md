@@ -8,17 +8,11 @@
 http://tasks.hotosm.org/
 
 * Search for Bambari 
-![](http://gis.asseng.info/bambari/TM_Search.png)
-* Select the Task of Bambari:
+* Select the Task:
   _#141 Central African Republic, Ouaka, Bambari_
-* Select a square in the map who had not been validated (not in green)
-![](http://gis.asseng.info/bambari/TM_SelectSquare.png)
-
+* Select a square in the map which had not been validated (not in green)
 * Press __Start Mapping__
-![](http://gis.asseng.info/bambari/TM_StartMapping1.png)
-
 * Select __Edit with ID Editor__
-![](http://gis.asseng.info/bambari/TM_IDEditor.png)
 
 
 ####The Task:
