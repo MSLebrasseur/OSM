@@ -37,7 +37,7 @@ http://tasks.hotosm.org/
 
 * Make it orthogonal with "s"
 
-* When Saving add the tag #CAR, Bambari #hotosm-task-141, #sources ICRC 14 April 2014
+* When Saving add the tag: #CAR, Bambari #hotosm-task-141, #sources ICRC 14 April 2014
 
 * Don't forget to unlock the square!
 
