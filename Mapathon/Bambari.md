@@ -48,7 +48,7 @@ http://tasks.hotosm.org/
 
 [Nepal](https://vimeo.com/126611252 "Nepal")
 
-#####Other Link
+#####Other Links
 * http://54.77.175.142:8888/v2/bambari/{z}/{x}/{y}.png
 
 * http://wiki.openstreetmap.org/wiki/Map_Features
