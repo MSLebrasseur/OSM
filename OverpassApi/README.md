@@ -44,9 +44,10 @@ out meta;
 All the buildings during Bambari Mapathon
 
 ```
+[out:json];
 (
- way({{bbox}})["building"](changed:"2015-06-11T00:00:00Z","2015-06-11T22:00:00Z");
+ way({{bbox}})["building"](changed:"2015-06-11T00:00:00Z","2015-06-11T22:00:00Z");
 );
 (._;>;);
-out;
+out meta;
 ```
