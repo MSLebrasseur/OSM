@@ -55,3 +55,10 @@ http://tasks.hotosm.org/
 
 * http://wiki.openstreetmap.org/wiki/Map_Features
 
+````
+(
+ way({{bbox}})["building"](changed:"2015-06-11T00:00:00Z","2015-06-11T22:00:00Z");
+);
+(._;>;);
+out;
+```
