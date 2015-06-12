@@ -29,7 +29,7 @@ area[int_name="Syria"];
 out;
 ```
 
-All the roads mapped during the mapathon
+All the roads mapped during the CartONG mapathon
 
 ```
 [out:json];
@@ -39,4 +39,14 @@ area[name="Kigoma"];
 );
 (._;>;);
 out meta;
+```
+
+All the buildings during Bambari Mapathon
+
+```
+(
+ way({{bbox}})["building"](changed:"2015-06-11T00:00:00Z","2015-06-11T22:00:00Z");
+);
+(._;>;);
+out;
 ```
