@@ -74,7 +74,10 @@ http://tasks.hotosm.org/
 
 * http://wiki.openstreetmap.org/wiki/Map_Features
 
-Requete OVERPASS-turbo pour avoir le nombre de building mappé ce jour ! 
+#####Results tracking
+http://overpass-turbo.eu/
+
+OVERPASS-turbo query for obtain the number of buildings mapped this day!
 
 ````
 (
