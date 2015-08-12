@@ -56,7 +56,7 @@ http://tasks.hotosm.org/
 
 * Make it orthogonal with "s"
 
-* When Saving add the tag: #PH, Bambari #hotosm-task-#1148, #ICRC-SilvinoLobos Pleaide 17.02.15
+* When Saving add the tag: #PH, ICRC-SilvinoLobos #hotosm-task-#1148,Pleaide 17.02.15
 
 * Don't forget to unlock the square!
 
