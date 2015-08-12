@@ -1,7 +1,15 @@
-#### Silvino Lobos MAPATHON
+#### Silvino Lobos Mapping Party 
+Mapping data will be used by the Water and Habitat unit of the ICRC for planning the water network
 
-![](http://gis.asseng.info/Silvinolobos/SilvinoLobos1.jpg) one of the water points with uneven water pressure
-![](http://gis.asseng.info/Silvinolobos/SilvinoLobos2.jpg) concrete  existing intake box
+The Municipality of Silvino Lobos is one of the Geographical Isolated and Disadvantaged Areas (GIDA) in Northern Samar where effects of the long term conflict with the New Peoples Army (NPA) are the most evident. 
+The 5’000 resident of the main town and the 13,000 located in the surroundings, live in difficult conditions of underdevelopment and marginalization due to the lack of most essential services. 
+No electricity, no access road and very minimal water supply.  
+To improve access to safe water, it is proposed to rehabilitate and the existing line, improve an existing borehole and eventually drill a new one.
+
+
+
+* ![](http://gis.asseng.info/Silvinolobos/SilvinoLobos1.jpg) one of the water points with uneven water pressure
+* ![](http://gis.asseng.info/Silvinolobos/SilvinoLobos2.jpg) concrete  existing intake box
 
 
 
