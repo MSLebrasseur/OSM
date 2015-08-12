@@ -2,8 +2,8 @@
 
 #####CREATE AN OPENSTREETMAP ACCOUNT OR USE ONE OF THE PRE-SET Account 
 
-Account 1 name 1
-Account 2 name 2
+*Account 1 name 1
+*Account 2 name 2
 
 http://openstreetmap.org/
 
@@ -20,7 +20,7 @@ http://tasks.hotosm.org/
 ![](http://gis.asseng.info/bambari/TM_Search2.png)
 
 * Select the Task:
-  _#141 Central African Republic, Ouaka, Bambari_ (a remplacer
+  _#1148 Philippines, Samar, Silvino Lobos
 * Select a square in the map which has not been validated (not in green)
 * Press __Start Mapping__
 * Select __Edit with ID Editor__
@@ -42,7 +42,7 @@ http://tasks.hotosm.org/
 
 * Make it orthogonal with "s"
 
-* When Saving add the tag: #PH, Bambari #hotosm-task-141, #sources ICRC 17 April 2014
+* When Saving add the tag: #PH, Bambari #hotosm-task-#1148, #ICRC-SilvinoLobos Pleaide 17.02.15
 
 * Don't forget to unlock the square!
 
