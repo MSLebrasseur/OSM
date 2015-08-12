@@ -1,5 +1,11 @@
 #### Silvino Lobos MAPATHON
 
+![](http://gis.asseng.info/Silvinolobos/SilvinoLobos1.jpg) one of the water points with uneven water pressure
+![](http://gis.asseng.info/Silvinolobos/SilvinoLobos2.jpg) concrete  existing intake box
+
+
+
+
 #####CREATE AN OPENSTREETMAP ACCOUNT OR USE ONE OF THE PRE-SET Account 
 
 *Account 1 name 1
