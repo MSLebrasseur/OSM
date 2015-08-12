@@ -8,8 +8,10 @@ No electricity, no access road and very minimal water supply.
 To improve access to safe water, it is proposed to rehabilitate and the existing line, improve an existing borehole and eventually drill a new one.
 
 
-* ![](http://gis.asseng.info/Silvinolobos/SilvinoLobos1.jpg) one of the water points with uneven water pressure
-* ![](http://gis.asseng.info/Silvinolobos/SilvinoLobos2.jpg) concrete  existing intake box
+|                   |                      |
+| ----------------: | :------------------- |
+| ![](http://gis.asseng.info/Silvinolobos/SilvinoLobos1.jpg) | one of the water points with uneven water pressure
+| ![](http://gis.asseng.info/Silvinolobos/SilvinoLobos2.jpg) | concrete  existing intake box
 
 
 
