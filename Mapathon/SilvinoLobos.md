@@ -18,10 +18,11 @@ To improve access to safe water, it is proposed to rehabilitate and the existing
 
 #####CREATE AN OPENSTREETMAP ACCOUNT OR USE ONE OF THE PRE-SET Account 
 
-*Account 1 name 1
-*Account 2 name 2
+Log with your own account  create quicly one or use a third party account
 
 http://openstreetmap.org/
+https://www.openstreetmap.org/login?referer=%2Fuser%2Fnew
+
 
 * On the OpenStreetMap.org website, click “sign up” in the top right corner of the page.
 * After filling the form, go back on the map and click Edit !
