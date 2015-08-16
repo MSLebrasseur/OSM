@@ -37,7 +37,7 @@ http://tasks.hotosm.org/
 ![](http://gis.asseng.info/bambari/TM_Search2.png)
 
 * Select the Task:
-  _#1148 Philippines, Samar, Silvino Lobos
+  _#1157 Philippines, Samar, Silvino Lobos
 * Select a square in the map which has not been validated (not in green)
 * Press __Start Mapping__
 * Select __Edit with ID Editor__
@@ -48,7 +48,7 @@ http://tasks.hotosm.org/
 * Add a custom tile service (basemap satellite imagery)
 ![](http://gis.asseng.info/bambari/TM_Custom.png)
 
-* The image link is : https://a.tiles.mapbox.com/v4/icrc.39hpztee/{z}/{x}/{y}.png
+* The image link is : https://{switch:a,b,c,d}.tiles.mapbox.com/v4/icrc.39hpztee/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiaWNyYyIsImEiOiJ5dlNMaUhnIn0.QG1pZIPyfyekyHFAS6vb2w
 
 * Move the background a bit, in order to match the elements with the image                                            
 ![](http://gis.asseng.info/bambari/TM_Alignment.png)
@@ -59,7 +59,7 @@ http://tasks.hotosm.org/
 
 * Make it orthogonal with "s"
 
-* When Saving add the tag: #PH, ICRC-SilvinoLobos #hotosm-task-#1148,Pleaide 17.02.15
+* When Saving add the tag: #PH, ICRC-SilvinoLobos #hotosm-task-#1157,Pleaide 17.02.15
 
 * Don't forget to unlock the square!
 
