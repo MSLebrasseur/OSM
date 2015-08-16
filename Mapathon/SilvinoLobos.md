@@ -20,8 +20,8 @@ To improve access to safe water, it is proposed to rehabilitate and the existing
 
 Log with your own account  create quicly one or use a third party account
 
-http://openstreetmap.org/
-https://www.openstreetmap.org/login?referer=%2Fuser%2Fnew
+*http://openstreetmap.org/
+*https://www.openstreetmap.org/login?referer=%2Fuser%2Fnew
 
 
 * On the OpenStreetMap.org website, click “sign up” in the top right corner of the page.
@@ -71,7 +71,7 @@ http://tasks.hotosm.org/
 [Nepal](https://vimeo.com/126611252 "Nepal")
 
 #####Other Links
-* https://a.tiles.mapbox.com/v4/icrc.39hpztee/{z}/{x}/{y}.png
+* https://api.mapbox.com/v4/icrc.39hpztee/page.html?access_token=pk.eyJ1IjoiaWNyYyIsImEiOiJ5dlNMaUhnIn0.QG1pZIPyfyekyHFAS6vb2w#15/12.3277/124.8436 
 
 * http://wiki.openstreetmap.org/wiki/Map_Features
 
