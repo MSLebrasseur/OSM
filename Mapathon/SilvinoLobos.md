@@ -21,6 +21,7 @@ To improve access to safe water, it is proposed to rehabilitate and the existing
 Log with your own account  create quicly one or use a third party account
 
 *http://openstreetmap.org/
+
 *https://www.openstreetmap.org/login?referer=%2Fuser%2Fnew
 
 
