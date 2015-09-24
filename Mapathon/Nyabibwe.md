@@ -24,6 +24,8 @@ Log with your own account  create quicly one or use a third party account (Googl
 * On the OpenStreetMap.org website, click “sign up” in the top right corner of the page.
 * After filling the form, go back on the map and click Edit !
 
+
+
 #####THE TASK MANAGER
 
 In Mozilla (ICT Store) or Chrome !
@@ -71,7 +73,8 @@ http://tasks.hotosm.org/
 * https://api.mapbox.com/v4/icrc.39hpztee/page.html?access_token=pk.eyJ1IjoiaWNyYyIsImEiOiJ5dlNMaUhnIn0.QG1pZIPyfyekyHFAS6vb2w#15/12.3277/124.8436 
 
 * http://wiki.openstreetmap.org/wiki/Map_Features
-
+ 
+ 
 #####Results tracking
 http://overpass-turbo.eu/
 
@@ -79,7 +82,7 @@ OVERPASS-turbo query for obtain the number of buildings mapped this day!
 
 ````
 (
- way({{bbox}})["building"](changed:"2015-06-11T00:00:00Z","2015-06-11T22:00:00Z");
+ way({{bbox}})["building"](changed:"2015-10-1T00:00:00Z","2015-10-1T22:00:00Z");
 );
 (._;>;);
 out;
