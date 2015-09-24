@@ -1,4 +1,4 @@
-#### Nyabibwe (DRC) Mapping Party 
+## Nyabibwe (DRC) Mapping Party 
 Mapping data will be used by the Water and Habitat unit of the ICRC for planning the water network
 
 This is what we have now... __Let's demonstrate what can a mapping party get!__
