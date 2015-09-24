@@ -2,7 +2,7 @@
 Mapping data will be used by the Water and Habitat unit of the ICRC for planning the water network
 
 
-![](http://gis.asseng.info/Nyabibwe/Nyabibwe_OSM_24092015.PNG)
+![](http://gis.asseng.info/Nyabibwe/Nyabibwe_OSM_24092015_low.PNG)
 
 <font-family: Arial,Liberation Sans,DejaVu Sans,sans-serif; font-size: 80%; - Programmers: font-family: Tahoma,Geneva,Arial,sans-serif; font-size: 12px;>
 The Municipality of Silvino Lobos is one of the Geographical Isolated and Disadvantaged Areas (GIDA) in Northern Samar where effects of the long term conflict with the New Peoples Army (NPA) are the most evident. 
