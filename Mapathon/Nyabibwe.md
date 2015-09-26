@@ -47,7 +47,7 @@ http://tasks.hotosm.org/
 * Add a custom tile service (basemap satellite imagery)
 ![](http://gis.asseng.info/bambari/TM_Custom.png)
 
-* The image link is : https://{switch:a,b,c,d}.tiles.mapbox.com/v4/icrc.39hpztee/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiaWNyYyIsImEiOiJ5dlNMaUhnIn0.QG1pZIPyfyekyHFAS6vb2w
+* The image link is : __https://{switch:a,b,c,d}.tiles.mapbox.com/v4/icrc.vykkltiv/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiaWNyYyIsImEiOiJ5dlNMaUhnIn0.QG1pZIPyfyekyHFAS6vb2w__
 
 * Move the background a bit, in order to match the elements with the image                                            
 ![](http://gis.asseng.info/bambari/TM_Alignment.png)
