@@ -1,7 +1,7 @@
 ## Nyabibwe (DRC) Mapping Party 
 
 <font-family: Arial,Liberation Sans,DejaVu Sans,sans-serif; font-size: 80%; - Programmers: font-family: Tahoma,Geneva,Arial,sans-serif; font-size: 12px;>
-(Include a dewscription of the task)
+(Include a description of the task)
 
 This is what we have now... __Let's demonstrate what can a mapping party get!__
 ![](http://gis.asseng.info/Nyabibwe/Nyabibwe_OSM_24092015_low.png)
