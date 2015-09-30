@@ -30,7 +30,7 @@ http://tasks.hotosm.org/
 ![](http://gis.asseng.info/bambari/TM_Search2.png)
 
 * Select the Task:
-  #1222 - Nyabibwe, South Kivu, DRC
+  1222 - Nyabibwe, South Kivu, DRC
 * Select a square in the map which has not been validated (not in green)
 * Press __Start Mapping__
 * Select __Edit with ID Editor__
