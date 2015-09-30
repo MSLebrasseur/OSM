@@ -30,7 +30,7 @@ http://tasks.hotosm.org/
 ![](http://gis.asseng.info/bambari/TM_Search2.png)
 
 * Select the Task:
-  #808 - Nyabibwe, South Kivu, DRC
+  #1222 - Nyabibwe, South Kivu, DRC
 * Select a square in the map which has not been validated (not in green)
 * Press __Start Mapping__
 * Select __Edit with ID Editor__
@@ -52,7 +52,7 @@ http://tasks.hotosm.org/
 
 * Make it orthogonal with "s"
 
-* When Saving add the tag: #DRC, #ICRC-Nyabibwe #hotosm-task-#808 source=Pleaide 21.05.15
+* When Saving add the tag: #DRC, #ICRC-Nyabibwe #hotosm-task-#1222 source=Pleaide 21.05.15
 
 * Don't forget to unlock the square!
 
