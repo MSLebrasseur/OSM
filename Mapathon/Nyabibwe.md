@@ -1,7 +1,9 @@
 ## Nyabibwe (DRC) Mapping Party 
 
 <font-family: Arial,Liberation Sans,DejaVu Sans,sans-serif; font-size: 80%; - Programmers: font-family: Tahoma,Geneva,Arial,sans-serif; font-size: 12px;>
-(Include a description of the task)
+Nyabibwe is located in South Kivu region in Democratic Republic of the Congo. 
+DRC Wathab team is starting a water supply project 30,000 inhabitants.
+The detailed map will help in the project design  and implementation and will also help future operation and maintenance by the local water authorities. 
 
 This is what we have now... __Let's demonstrate what can a mapping party get!__
 ![](http://gis.asseng.info/Nyabibwe/Nyabibwe_OSM_24092015_low.png)
