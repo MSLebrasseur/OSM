@@ -1,5 +1,5 @@
 #### BAMBARI MAPATHON
-
+ 
 #####CREATE AN OPENSTREETMAP ACCOUNT
 
 http://openstreetmap.org/
@@ -29,6 +29,7 @@ http://tasks.hotosm.org/
 ![](http://gis.asseng.info/bambari/TM_Custom.png)
 
 * The image link is : https://b.tiles.mapbox.com/v3/icrc.j6xkcsor/{z}/{x}/{y}.png
+* 
 
 * Move the background a bit, in order to match the elements with the image                                            
 ![](http://gis.asseng.info/bambari/TM_Alignment.png)
