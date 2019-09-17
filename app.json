@@ -1,0 +1,24 @@
+{
+  "id": "cdbf3477-18f1-4dac-b954-42c3e7677d18",
+  "name": "OSM_Report",
+  "publisher": "Gestisoft",
+  "brief": "",
+  "description": "Développement de rapports custom pour OSM" ,
+  "version": "1.3.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./logo/gestisoft.png",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.3",
+  "features": ["TranslationFile"]
+}
